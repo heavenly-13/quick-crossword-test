@@ -38,29 +38,31 @@ Once you have installed the dependencies, follow these steps to run the script:
    - No issues observed during the page loading process.
 
 2. **Advertisement Handling:**
+     - The script handled closing of a privacy confirmation window.
    - The script attempted to close three types of ads if present on the page.
    - Each ad close button was clicked if found, and appropriate messages were printed indicating success or failure.
    - No issues observed in handling the advertisements.
-   - Rarely an advertisement might appear that's not handled by the code, in such edge case the terminal will provide an error and the script has to be restarted.
-   - The code can be optimized to not wait for each ad.
+     - Rarely an advertisement might appear that's not handled by the code, in such edge case the terminal will provide an error and the script has to be restarted.
+     - The code can be optimized to not wait for each ad.
 
-3. **Game Start:**
+4. **Game Start:**
    - The script clicked on the "Start game" button.
    - No issues observed during the game start process.
 
-4. **Date Extraction and Comparison:**
+5. **Date Extraction and Comparison:**
    - The script successfully extracted the date from the webpage and the current date.
    - The extracted date was compared with the current date, and a message was printed indicating whether they matched or not.
    - No discrepancies observed between the extracted date and the current date.
 
-5. **Screenshot Capturing:**
+6. **Screenshot Capturing:**
    - The script successfully captured a screenshot of the webpage after completing the necessary actions.
    - The screenshot was saved to the Desktop.
    - No issues observed during the screenshot capturing process.
 
-6. **Browser Closure:**
+7. **Browser Closure:**
    - The browser was closed at the end of the script execution.
    - No issues observed during the browser closure.
+     - The time the test took is printed.
 
 #### Overall Observations:
 - The script executed all the required actions successfully without encountering any errors or failures.
