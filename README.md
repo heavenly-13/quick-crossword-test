@@ -1,4 +1,4 @@
-## Running the Script
+## Test Automation
 
 ### Prerequisites
 
