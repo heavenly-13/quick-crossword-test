@@ -25,7 +25,7 @@ Once you have installed the dependencies, follow these steps to run the script:
 3. Navigate to the directory where the script is saved.
 4. Run the script using Python by executing the following command:
    ```
-   python script.py
+   python quick-crossword-test.py
    ```
    
 ## Test Execution Report
