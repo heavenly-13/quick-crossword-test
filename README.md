@@ -42,6 +42,7 @@ Once you have installed the dependencies, follow these steps to run the script:
    - Each ad close button was clicked if found, and appropriate messages were printed indicating success or failure.
    - No issues observed in handling the advertisements.
    - Rarely an advertisement might appear that's not handled by the code, in such edge case the terminal will provide an error and the script has to be restarted.
+   - The code can be optimized to not wait for each ad.
 
 3. **Game Start:**
    - The script clicked on the "Start game" button.
@@ -54,7 +55,7 @@ Once you have installed the dependencies, follow these steps to run the script:
 
 5. **Screenshot Capturing:**
    - The script successfully captured a screenshot of the webpage after completing the necessary actions.
-   - The screenshot was saved to the specified location (`C:/Games/screenshot.png`).
+   - The screenshot was saved to the Desktop.
    - No issues observed during the screenshot capturing process.
 
 6. **Browser Closure:**
