@@ -1,6 +1,11 @@
+# Deliverables
+  - [**Test Automation**](#test-automation)
+    - [Prerequisites](#prerequisites-and-running-the-script) - Any necessary instructions or dependencies for running the script.
+    - [Test Execution Report](#test-execution-report) - A brief report of the test execution, including any observed issues or failures.
+
 ## Test Automation
 
-### Prerequisites
+### Prerequisites and Running the Script
 
 Before running the script, ensure you have the following dependencies installed:
 
@@ -15,8 +20,6 @@ Before running the script, ensure you have the following dependencies installed:
    ```
    pip install Pillow
    ```
-
-### Running the Script
 
 Once you have installed the dependencies, follow these steps to run the script:
 
