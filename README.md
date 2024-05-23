@@ -1,9 +1,14 @@
 # Deliverables
   - [**Test Automation**](#test-automation)
+    - [Automation Script](#automation-script)
     - [Prerequisites](#prerequisites-and-running-the-script) - Any necessary instructions or dependencies for running the script.
     - [Test Execution Report](#test-execution-report) - A brief report of the test execution, including any observed issues or failures.
+    - [Automation Video](#automation-video) - Automation video, showing the automation in progress.
 
 ## Test Automation
+
+### Automation Script
+[quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-test.py
 
 ### Prerequisites and Running the Script
 
@@ -67,3 +72,6 @@ Once you have installed the dependencies, follow these steps to run the script:
 #### Overall Observations:
 - The script executed all the required actions successfully without encountering any errors or failures.
 - All expected functionalities, including page navigation, ad handling, date extraction, and screenshot capturing, were performed as intended.
+
+### Automation Video
+[[quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-automation-video.mp4)
