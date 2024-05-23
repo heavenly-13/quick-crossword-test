@@ -71,7 +71,7 @@ def run(playwright):
         # Wait for 1.5 seconds
         page.wait_for_timeout(1500)
 
-        # Perform additional actions (Start game)
+        # Start game
         start_game_button = page.frame_locator("#canvas-box").locator("li").filter(
             has_text="Daily Bonus+50 PTSPLAY").locator("div").nth(1)
         start_game_button.click()
