@@ -23,7 +23,7 @@ Before running the script, ensure you have the following dependencies installed:
 
 Once you have installed the dependencies, follow these steps to run the script:
 
-1. Download the provided script (`quick-crossword-test.py`).
+1. Download the provided script ([quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-test.py)).
 2. Open a terminal.
 3. Navigate to the directory where the script is saved.
 4. Run the script using Python by executing the following command:
