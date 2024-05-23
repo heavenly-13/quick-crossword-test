@@ -1,6 +1,6 @@
 # Deliverables
   - [**Test Automation**](#test-automation)
-    - [Automation Script](#automation-script)
+    - [Automation Script](#automation-script) - Automation script written in Python using Playwright.
     - [Prerequisites](#prerequisites-and-running-the-script) - Any necessary instructions or dependencies for running the script.
     - [Test Execution Report](#test-execution-report) - A brief report of the test execution, including any observed issues or failures.
     - [Automation Video](#automation-video) - Automation video, showing the automation in progress.
