@@ -62,6 +62,6 @@ Once you have installed the dependencies, follow these steps to run the script:
    - The browser was closed at the end of the script execution.
    - No issues observed during the browser closure.
 
-### Overall Observations:
+#### Overall Observations:
 - The script executed all the required actions successfully without encountering any errors or failures.
 - All expected functionalities, including page navigation, ad handling, date extraction, and screenshot capturing, were performed as intended.
