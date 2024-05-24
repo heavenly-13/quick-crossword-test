@@ -15,16 +15,16 @@
 ### Test Plan
 
 ### Bug Report
-[bug-report.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-report.docx)
-[bug-screenshot.png](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-screenshot.png)
-[bug-recording.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-recording.mp4)
+  - [bug-report.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-report.docx)
+  - [bug-screenshot.png](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-screenshot.png)
+  - [bug-recording.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-recording.mp4)
 ### Observations
-[observations-and-comments](https://github.com/heavenly-13/quick-crossword-test/blob/main/observations-and-comments.docx)
+  - [observations-and-comments](https://github.com/heavenly-13/quick-crossword-test/blob/main/observations-and-comments.docx)
 
 ## Test Automation
 
 ### Automation Script
-[quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-test.py)
+  - [quick-crossword-test.py](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-test.py)
 
 ### Prerequisites and Running the Script
 
@@ -90,7 +90,7 @@ Once you have installed the dependencies, follow these steps to run the script:
 - All expected functionalities, including page navigation, ad handling, date extraction, and screenshot capturing, were performed as intended.
 
 ### Automation Video
-[quick-crossword-automation-video.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-automation-video.mp4)
+  - [quick-crossword-automation-video.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-automation-video.mp4)
 
 ### Automation Questionnaire
-[questionnaire-automation.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/questionnaire-automation.docx)
+  - [questionnaire-automation.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/questionnaire-automation.docx)
