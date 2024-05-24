@@ -19,7 +19,7 @@
   - [bug-screenshot.png](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-screenshot.png)
   - [bug-recording.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-recording.mp4)
 ### Observations
-  - [observations-and-comments](https://github.com/heavenly-13/quick-crossword-test/blob/main/observations-and-comments.docx)
+  - [observations-and-comments.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/observations-and-comments.docx)
 
 ## Test Automation
 
