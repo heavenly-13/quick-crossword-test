@@ -1,8 +1,8 @@
 # Deliverables
   - [**Manual Tests**](#manual-tests)
-    - [Test Plan](#test-plan)
-    - [Bug Report](#bug-report)
-    - [Observations](#observations)
+    - [Test Plan](#test-plan) - Test plan document in spreadsheet format.
+    - [Bug Report](#bug-report) - Report of a bug found on the SUT.
+    - [Observations](#observations) - Document with observations and comments.
   - [**Test Automation**](#test-automation)
     - [Automation Script](#automation-script) - Automation script written in Python using Playwright.
     - [Prerequisites](#prerequisites-and-running-the-script) - Any necessary instructions or dependencies for running the script.
@@ -18,34 +18,6 @@
 
 ### Observations
 
-#### User Interface (UI) Design
-  - The UI is clean and minimalistic, making it easy to navigate.
-  - The crossword grid is clearly displayed, with well-defined lines and cells.
-
-#### Functionality
-
-  - The game loads quickly without any noticeable delays.
-  - There are no visible glitches or bugs during gameplay.
-
-#### Usability
-  - The game is straightforward to use, requiring no tutorial.
-  - Hints or help features are easy to find and use.
-
-#### Performance
-The game performs smoothly without any lag.
-Transitions between different game states (e.g., from the main menu to the game screen) are seamless.
-
-#### Accessibility
-The game appears to be accessible, with clear text and high-contrast elements.
-
-#### Compatibility
-The game works well across different browsers without any issues.
-There is a bug report made for different window sizes.
-
-#### Suggestions for Improvement
-
-Providing different themes or color schemes could enhance user customization and satisfaction.
-A mode with color schemes that are colorblind-friendly would also be beneficial.
 
 ## Test Automation
 
