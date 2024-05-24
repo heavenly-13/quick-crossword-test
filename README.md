@@ -45,7 +45,7 @@ There is a bug report made for different window sizes.
 #### Suggestions for Improvement
 
 Providing different themes or color schemes could enhance user customization and satisfaction.
-A mode with color schemes that are colorblind-friendly would be beneficial.
+A mode with color schemes that are colorblind-friendly would also be beneficial.
 
 ## Test Automation
 
