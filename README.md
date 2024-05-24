@@ -13,7 +13,7 @@
 ## Manual Tests
 
 ### Test Plan
-
+  - [test-plan.xlsx](https://github.com/heavenly-13/quick-crossword-test/blob/main/test-plan.xlsx)
 ### Bug Report
   - [bug-report.docx](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-report.docx)
   - [bug-screenshot.png](https://github.com/heavenly-13/quick-crossword-test/blob/main/bug-screenshot.png)
