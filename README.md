@@ -4,6 +4,7 @@
     - [Prerequisites](#prerequisites-and-running-the-script) - Any necessary instructions or dependencies for running the script.
     - [Test Execution Report](#test-execution-report) - A brief report of the test execution, including any observed issues or failures.
     - [Automation Video](#automation-video) - Automation video, showing the automation in progress.
+    - [Automation Questionnaire](#automation-questionnaire) - Document with answer to provided automation question. 
 
 ## Test Automation
 
@@ -75,3 +76,6 @@ Once you have installed the dependencies, follow these steps to run the script:
 
 ### Automation Video
 [quick-crossword-automation-video.mp4](https://github.com/heavenly-13/quick-crossword-test/blob/main/quick-crossword-automation-video.mp4)
+
+### Automation Questionnaire
+
